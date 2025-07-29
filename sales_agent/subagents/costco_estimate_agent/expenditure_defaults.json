@@ -1,0 +1,50 @@
+{
+    "category_defaults": {
+      "food": {
+        "annual_range": [2000, 4800],
+        "unit": "USD",
+        "frequency": 5
+      },
+      "household_cleaning": {
+        "annual_range": [150, 400],
+        "unit": "USD",
+        "frequency": 3
+      },
+      "personal_care_pharmacy": {
+        "annual_range": [100, 500],
+        "unit": "USD",
+        "frequency": 3
+      },
+      "electronics_appliances": {
+        "annual_range": [40, 1000],
+        "unit": "USD",
+        "frequency": 2
+      },
+      "furniture": {
+        "annual_range": [100, 1000],
+        "unit": "USD",
+        "frequency": 1
+      },
+      "seasonal": {
+        "annual_range": [20, 200],
+        "unit": "USD",
+        "frequency": 1
+      },
+      "clothing": {
+        "annual_range": [100, 400],
+        "unit": "USD",
+        "frequency": 2
+      },
+      "travel": {
+        "annual_range": [0, 5000],
+        "unit": "USD",
+        "frequency": 1
+      },
+      "gasoline": {
+        "annual_range": [1500, 2500],
+        "unit": "USD",
+        "frequency": 5
+      }
+    }
+  }
+  

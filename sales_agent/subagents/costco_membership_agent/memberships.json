@@ -1,0 +1,72 @@
+{
+    "memberships": [
+      {
+        "name": "Executive Membership",
+        "annual_fee": 130,
+        "description": "Best Value & Exclusive Benefits",
+        "benefits": [
+          {
+            "name": "2% Annual Reward",
+            "details": "2% cashback on qualified Costco and Costco Travel purchases up to $1,250 per year",
+            "reward_percentage": 2,
+            "reward_cap": 1250
+          },
+          {
+            "name": "Executive Shopping Hours",
+            "details": "Early access: Mon–Fri 9–10 a.m., Sat 9–9:30 a.m., Sun 9–10 a.m."
+          },
+          {
+            "name": "$10 Monthly Credit",
+            "details": "$10 monthly credit on SameDay.Costco.com or Instacart orders of $150+"
+          },
+          {
+            "name": "Extra Costco Services Benefits",
+            "details": "Additional discounts on select Costco services"
+          }
+        ],
+        "restrictions": [
+          "2% Reward excludes items such as tobacco, gasoline, Costco Shop Cards, certain prescription drugs, membership fees, taxes, shipping, and other exclusions per Costco policy",
+          "Purchases prior to upgrading do not qualify for the 2% Reward",
+          "Only purchases by the Primary or Primary Household Cardholder count toward rewards"
+        ],
+        "estimated_rewards_table": [
+          { "yearly_spending": 3252, "approx_reward": 65 },
+          { "yearly_spending": 6504, "approx_reward": 130 },
+          { "yearly_spending": 9600, "approx_reward": 192 },
+          { "yearly_spending": 15000, "approx_reward": 300 },
+          { "yearly_spending": 30000, "approx_reward": 600 },
+          { "yearly_spending": 50040, "approx_reward": 1000 },
+          { "yearly_spending": 62500, "approx_reward": 1250 }
+        ]
+      },
+      {
+        "name": "Gold Star Membership",
+        "annual_fee": 65,
+        "description": "Everyday Value",
+        "benefits": [
+          {
+            "name": "Standard Access",
+            "details": "Shop all Costco warehouses and online at Costco.com"
+          },
+          {
+            "name": "2 Membership Cards",
+            "details": "Primary cardholder plus one household member"
+          }
+        ],
+        "limitations": [
+          "No 2% Annual Reward",
+          "No Executive Shopping Hours",
+          "No $10 Monthly Credit on SameDay Costco or Instacart orders",
+          "No additional benefits on Costco Services"
+        ]
+      }
+    ],
+    "upgrade_information": {
+      "upgrade_fee": 65,
+      "proration_policy": "Upgrade fee prorated based on remaining membership months",
+      "renewal_policy": "At renewal, Executive Membership renews for $130/year",
+      "cancellation": "Memberships can be canceled or downgraded at any time, with 100% satisfaction guarantee"
+    },
+    "updated": "2024-10-14"
+  }
+  

@@ -1,0 +1,12 @@
+google-adk[database]
+google-generativeai==0.8.5
+python-dotenv==1.1.0
+deprecated==1.2.14
+
+pytesseract==0.3.10
+pillow==11.2.1
+
+nanoid
+pandas
+pdfplumber
+google-cloud-vision
