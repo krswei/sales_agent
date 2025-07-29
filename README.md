@@ -18,6 +18,7 @@ Connect a billing account to your Google Cloud project.
 Locate the example environment file (my_env) in the root directory. Rename this file to .env and add your actual API key and any other required environment variables.
 
 GOOGLE_GENAI_USE_VERTEXAI=FALSE
+
 GOOGLE_API_KEY = "YOUR_GENERATED_API_KEY_HERE"
 
 ## 3. Running the Application
