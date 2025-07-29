@@ -23,7 +23,7 @@ GOOGLE_API_KEY = "YOUR_GENERATED_API_KEY_HERE"
 ## 3. Running the Application
 After setting up the environment and configuring your API keys, you can run the application. 
 
-To use its built-in web-based developer UI, navigate to the project's root directory and run the following command within your activated virtual environment: adk web. 
+To use Google's built-in web-based developer UI, navigate to the project's root directory and run the following command within your activated virtual environment: adk web. 
 
 This command typically starts a local web server, usually accessible at http://localhost:8000 or http://127.0.0.1:8000, where you can interact with and debug your ADK agents.
 
