@@ -27,7 +27,7 @@ To use Google's built-in web-based developer UI, navigate to the project's root 
 
 This command typically starts a local web server, usually accessible at http://localhost:8000 or http://127.0.0.1:8000, where you can interact with and debug your ADK agents.
 
-# Project Expalantion and Scope
+# Project Explanation and Scope
 https://docs.google.com/presentation/d/1xLypTDf16fzkJg2Jm5T0vrgeKtUYAiG5ajfkWSHqbM0/edit?usp=sharing
 
 ![Costco Workflow](costco_workflow.png)
